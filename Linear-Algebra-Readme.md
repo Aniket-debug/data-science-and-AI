@@ -33,6 +33,9 @@ Explore these recommended books to enhance your understanding :
 
 Course to deepen your knowledge:
 
+- [**"Essence of Linear Algebra by 3Blue1Brown"**](https://youtube.com/playlist?list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B&si=KFO9uFXnQnFCvevR): A Quick Visual Refresher on Important Concepts of the Linear Algebra. The course gives a great visual understanding of the various facets of linear Algebra
+ 
+
 - [**"OCW MIT : Linear Algebra by Gilbert Strang"**](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/) : Linear Algebra Course MIT
 - [**"Linear Algebra Course at Khan Acadmey"**](https://www.khanacademy.org/math/linear-algebra) : Khan Academy Course 
 

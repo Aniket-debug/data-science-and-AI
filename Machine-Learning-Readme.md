@@ -46,7 +46,9 @@ This course provides a broad introduction to machine learning and statistical pa
 
 - [**Learning from Data: Caltech course Lectures**](https://home.work.caltech.edu/telecourse.html) \
 This is an introductory course in machine learning (ML) that covers the basic theory, algorithms, and applications. ML is a key technology in Big Data, and in many financial, medical, commercial, and scientific applications. || **[NTU MOOC : Learning from Data](https://www.csie.ntu.edu.tw/~htlin/mooc/)**
+
 ---
+
 
 ## <a name="notes"></a>Notes
 
@@ -87,6 +89,14 @@ Test your knowledge and skills with these practice problems:
 
 [<img src="https://github.com/trekhleb/homemade-machine-learning/blob/master/images/machine-learning-map.png">](https://github.com/trekhleb/homemade-machine-learning/blob/master/images/machine-learning-map.png)
 Machine Learning Mind Map
+
+
+---
+
+**Youtube courses** 📺 🖥️ :
+
+- [**Advanced Introduction to Machine Learning | Winter 2023**](https://www.youtube.com/watch?v=nB77M-mm0Nk&list=PLLB0NZP0teC-JfhvTuaurDq6hSEzSy1cG&ab_channel=ByteSizeML) \
+Course Syllabus : Motivation and Linear Regression, Binary Classification, Multi-class Classification, Clustering, Anomaly Detection, Data Visualization, Deep Learning Motivation. Deep Learning Mechanics,Deep Learning in NLP, Advanced Topics || **[Course Website](https://bytesizeml.github.io/ml2023/)**
 
 #### <a name="table-of-contents"></a>Table of Contents
 

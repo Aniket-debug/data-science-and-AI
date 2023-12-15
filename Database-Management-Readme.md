@@ -21,7 +21,7 @@ Explore these recommended books to enhance your understanding:
 
 - **[Fundamentals of Database Systems by Elmasri and Navathe ~ 4th edition](http://www.uoitc.edu.iq/images/documents/informatics-institute/Competitive_exam/Database_Systems.pdf)** \
 Chapters 2,3, 5,6, 7.1,8,10,11,14,17,18
-- [**"Data Mining Book Third Edition"**](https://www.sku.ac.ir/Datafiles/BookLibrary/43/Data-Mining-Concepts-and-Techniques-Han.pdf) \
+- [**"Data Mining Book (Third Edition)"**](https://www.sku.ac.ir/Datafiles/BookLibrary/43/Data-Mining-Concepts-and-Techniques-Han.pdf) \
   Jiawei Han(University of Illinois at Urbana–Champaign),Micheline Kamber,Jian Pei(Simon Fraser University)\
   A comprehensive resource for theory and its applications.
 - [**"Introduction to Data Mining (Second Edition)"**](https://www-users.cse.umn.edu/~kumar001/dmbook/index.php) by Tan, Steinbach, Kumar, & Karpatne,
